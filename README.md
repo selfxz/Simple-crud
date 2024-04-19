@@ -32,7 +32,7 @@ Paso a paso de lo que debes ejecutar para tener el proyecto ejecutandose
     ```
     composer install
     ```
- - Crea el archivo ".env" copiando la información del [ejemplo](https://github.com/selfxz/Simple-crud.git/blob/master/.env.example) y cambiar valores de su Base de datos.
+ - Crea el archivo ".env" copiando la información del [ejemplo](https://github.com/selfxz/Simple-crud/blob/master/.env.example) y cambiar valores de su Base de datos.
  6. Ejecute las migraciones
     ```
     php artisan migrate --seed
